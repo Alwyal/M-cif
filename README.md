@@ -20,7 +20,7 @@
 ## Latar Belakang Masalah
 Aplikasi M-cif merupakan aplikasi yang digunakan untuk membantu individu atau kelompok dalam mengelola keuangan pribadi atau bisnis. Aplikasi keuangan bisa mencakup berbagai fitur seperti pengelolaan budget, pemantauan pengeluaran, pemantauan pemasukan, dan membuat diagram pengeluaran, dengan adanya aplikasi M-cif semua informasi dapat disimpan dan dikelola secara terintegrasi, sehingga memudahkan pengelolaan keuangan.
 
-Aplikasi M-cif juga bisa memberikan banyak keuntungan bagi penggunanya, seperti membantu mengatur budget dengan lebih baik, mengelola pengeluaran secara efektif, dan memberikan laporan keuangan yang akurat. Aplikasi keuangan juga bisa memberikan notifikasi atau alert terkait transaksi atau pengeluaran yang dilakukan, sehingga membantu individu atau kelompok untuk lebih memahami keuangan mereka dan mengambil keputusan yang tepat.
+Aplikasi M-cif juga bisa memberikan banyak keuntungan bagi penggunanya, seperti membantu mengatur budget dengan lebih baik, mengelola pengeluaran secara efektif, memberikan laporan keuangan yang akurat dan memberikan diagram pengeluaran sehingga membantu individu atau kelompok untuk lebih memahami keuangan mereka dan mengambil keputusan yang tepat.
 
 ## Identifikasi Masalah
 1.  Kurangnya motivasi untuk belajar: Mahasiswa yang sering lupa tugas mungkin kurang motivasi untuk belajar atau tidak memahami pentingnya tugas yang diberikan.
@@ -42,4 +42,4 @@ Aplikasi ini ditujukan kepada mahasiswa yang sering lupa absen dan lupa tugas.
 4.  File E-Library
 
 ## Pitch Deck
-Pitch deck Kelompok 2 dapat dilihat pada link berikut [Pitch Deck](https://pitch.com/public/6cb4f7d9-7a2c-4c19-837f-08dc6fe1385c)
+Pitch deck Kelompok 3 dapat dilihat pada link berikut [Pitch Deck](https://pitch.com/public/c4c6de3c-c0ca-42fa-be5f-0f1525303888/a71764a7-6c2c-4647-9c3b-97db10822c2f)
