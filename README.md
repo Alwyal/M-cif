@@ -23,23 +23,25 @@ Aplikasi M-cif merupakan aplikasi yang digunakan untuk membantu individu atau ke
 Aplikasi M-cif juga bisa memberikan banyak keuntungan bagi penggunanya, seperti membantu mengatur budget dengan lebih baik, mengelola pengeluaran secara efektif, memberikan laporan keuangan yang akurat dan memberikan diagram pengeluaran sehingga membantu individu atau kelompok untuk lebih memahami keuangan mereka dan mengambil keputusan yang tepat.
 
 ## Identifikasi Masalah
-1.  Kurangnya motivasi untuk belajar: Mahasiswa yang sering lupa tugas mungkin kurang motivasi untuk belajar atau tidak memahami pentingnya tugas yang diberikan.
-2.  Kurangnya organisasi: Mahasiswa yang tidak terorganisir dengan baik mungkin kesulitan mengingat semua tugas yang harus dilakukan dan kapan harus diselesaikan.
-3.  Distraksi lingkungan: Mahasiswa mungkin mudah terdistraksi oleh lingkungan sekitar, seperti perangkat elektronik atau aktivitas sosial, yang menyebabkan mereka lupa tugas.
-4.  Masalah kesehatan: Mahasiswa yang sakit atau mengalami masalah kesehatan mungkin kesulitan untuk fokus pada belajar dan mengingat tugas.
-5.  Stres: Mahasiswa yang mengalami stres akademik atau masalah pribadi mungkin kesulitan untuk fokus pada belajar dan mengingat tugas.
+1. Kesalahan dalam mengisi atau mencatat transaksi,
+2. tidak adanya laporan keuangan,
+3. Kurangnya pemahaman nilai mata uang.
+
 
 ## Solusi yang Ditawarkan 
-Solusi yang kami tawarkan untuk mengatasi masalah ini yaitu, dengan membuat aplikasi mobile berbasis android yang bernama Tugas GO. Aplikasi ini dapat digunakan untuk mempermudah mahasiswa mengisi absen serta informasi tugas-tugas dalam bentuk catatan.
-
+1. Mengatur budget dengan lebih baik: Aplikasi M-cif bisa membantu kita dalam menentukan pemasukan dan pengeluaran yang tepat sesuai dengan kebutuhan dan tujuan keuangan,
+2. Memberikan laporan keuangan yang akurat: Aplikasi M-cif bisa memberikan laporan yang menyajikan informasi keuangan secara terstruktur dan mudah dipahami, sehingga kita bisa lebih mudah memahami keuangan kita dan mengambil keputusan yang tepat.
+3. Mempermudah pemahaman harga barang atau jasa dalam mata uang yang berbeda dan juga mempermudah transaksi internasional.
 ## Target User
-Aplikasi ini ditujukan kepada mahasiswa yang sering lupa absen dan lupa tugas.
+yang kita tuju adalah orang-orang yang mengerti dan mengapresiasi sebuah rencana keuangan, bila dilihat dari kelompok orangnya sendiri itu termasuk, mahasiswa, orang yang baru masuk dunia kerja dan baru mendapatkan penghasilan sendiri, dan juga pekerja.
 
 ## Fitur
-1.  Membuat dan menyimpan catatan
-2.  Memberikan informasi mata kuliah
-3.  Memberikan nontifikasi absen
-4.  File E-Library
+1. record pemasukan dan pengeluaran
+2. visualisasi berupa diagram
+3. Menampilkan Nilai Rupiah
 
 ## Pitch Deck
-Pitch deck Kelompok 3 dapat dilihat pada link berikut [Pitch Deck](https://pitch.com/public/c4c6de3c-c0ca-42fa-be5f-0f1525303888/a71764a7-6c2c-4647-9c3b-97db10822c2f)
+Pitch deck Kelompok 3 dapat dilihat pada link berikut [Pitch Deck](https://pitch.com/public/c4c6de3c-c0ca-42fa-be5f-0f1525303888/5b3e8e57-f18b-4cf8-aa45-919f3295d2d4)
+
+##Medium
+Medium Kelompok 3 dapat dilihat pada link berikut [Medium](https://medium.com/@1207050066/m-cif-application-dc9ae7efecf1)
