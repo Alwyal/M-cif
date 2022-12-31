@@ -18,7 +18,9 @@
 </div>
 
 ## Latar Belakang Masalah
-Kebanyakan mahasiswa memiliki banyak tugas dan tanggung jawab, sehingga mudah terlupakan sesuatu. Selain itu, ada juga faktor-faktor lain yang dapat mempengaruhi kemampuan seseorang untuk mengingat tugas, seperti stres, kelelahan, dan distraksi dari lingkungan sekitar. Solusi untuk masalah ini dapat berupa menggunakan teknik pengingatan atau mencatat tugas-tugas yang harus dilakukan, serta mengelola waktu secara efektif untuk memastikan bahwa semua tugas dapat diselesaikan tepat waktu.
+Aplikasi M-cif merupakan aplikasi yang digunakan untuk membantu individu atau kelompok dalam mengelola keuangan pribadi atau bisnis. Aplikasi keuangan bisa mencakup berbagai fitur seperti pengelolaan budget, pemantauan pengeluaran, pemantauan pemasukan, dan membuat diagram pengeluaran, dengan adanya aplikasi M-cif semua informasi dapat disimpan dan dikelola secara terintegrasi, sehingga memudahkan pengelolaan keuangan.
+
+Aplikasi M-cif juga bisa memberikan banyak keuntungan bagi penggunanya, seperti membantu mengatur budget dengan lebih baik, mengelola pengeluaran secara efektif, dan memberikan laporan keuangan yang akurat. Aplikasi keuangan juga bisa memberikan notifikasi atau alert terkait transaksi atau pengeluaran yang dilakukan, sehingga membantu individu atau kelompok untuk lebih memahami keuangan mereka dan mengambil keputusan yang tepat.
 
 ## Identifikasi Masalah
 1.  Kurangnya motivasi untuk belajar: Mahasiswa yang sering lupa tugas mungkin kurang motivasi untuk belajar atau tidak memahami pentingnya tugas yang diberikan.
