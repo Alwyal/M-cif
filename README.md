@@ -4,8 +4,6 @@
 ![Teams](https://img.shields.io/badge/Our%20Team-Team%203-blue)
 <div align='center'>
 
-<img src="Assets/ImamFirdaus.png" width="128"/>
-<img src="Assets/IfanyDewiTustianti.png" width="128"/>
 <img src="img/agus.png" width="128"/>
 <img src="img/alwy.png" width="128"/>
 <img src="img/mail.png" width="128"/>
