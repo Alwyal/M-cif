@@ -43,5 +43,5 @@ yang kita tuju adalah orang-orang yang mengerti dan mengapresiasi sebuah rencana
 ## Pitch Deck
 Pitch deck Kelompok 3 dapat dilihat pada link berikut [Pitch Deck](https://pitch.com/public/c4c6de3c-c0ca-42fa-be5f-0f1525303888/5b3e8e57-f18b-4cf8-aa45-919f3295d2d4)
 
-##Medium
+## Medium
 Medium Kelompok 3 dapat dilihat pada link berikut [Medium](https://medium.com/@1207050066/m-cif-application-dc9ae7efecf1)
