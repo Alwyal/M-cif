@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="8dp"
+    android:layout_marginTop="8dp"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/card_view"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:cardCornerRadius="24dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <ImageView
+            android:id="@+id/img_icon"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            tools:src="@tools:sample/avatars" />
+
+    </androidx.cardview.widget.CardView>
+
+    <TextView
+        android:id="@+id/tv_category"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:text="Makanan"
+        style="@style/TextAppearance.AppCompat.Medium"
+        app:layout_constraintStart_toEndOf="@id/card_view"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginStart="16dp" />
+
+    <TextView
+        android:id="@+id/tv_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:text="Nasi Goreng"
+        style="@style/TextAppearance.AppCompat.Small"
+        app:layout_constraintStart_toEndOf="@id/card_view"
+        app:layout_constraintTop_toBottomOf="@id/tv_category"
+        android:layout_marginStart="16dp" />
+
+    <TextView
+        android:id="@+id/tv_nominal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:text="-12.000"
+        style="@style/TextAppearance.AppCompat.Small"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginStart="16dp" />
+
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

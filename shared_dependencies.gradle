@@ -1,0 +1,7 @@
+dependencies {
+    implementation "androidx.core:core-ktx:$core_ktx_version"
+
+    // koin
+    implementation "io.insert-koin:koin-core:$koin_version"
+    implementation "io.insert-koin:koin-android:$koin_version"
+}

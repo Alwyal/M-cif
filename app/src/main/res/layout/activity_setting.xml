@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".ui.setting.SettingActivity">
+
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="32dp"
+            android:text="Daftar Nilai Tukar Mata Uang Asing Terhadap Rupiah "
+            android:textSize="15sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.491"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/tglKurs"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="31 Desember 2022"
+            android:textStyle="italic"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.498"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView2" />
+
+        <TextView
+            android:id="@+id/kurs1"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="8dp"
+            android:text="@string/k1"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tglKurs"
+            android:gravity="center"/>
+
+        <TextView
+            android:id="@+id/kurs2"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:text="@string/k2"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/kurs1"
+            android:gravity="center"/>
+
+        <TextView
+            android:id="@+id/kurs3"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:text="@string/k3"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/kurs2"
+            android:gravity="center"/>
+
+        <TextView
+            android:id="@+id/kurs4"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:text="@string/k4"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/kurs3"
+            android:gravity="center"/>
+
+        <TextView
+            android:id="@+id/kurs5"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:text="@string/k5"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/kurs4"
+            android:gravity="center"/>
+
+        <TextView
+            android:id="@+id/kurs6"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:text="@string/k6"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/kurs5"
+            android:gravity="center"/>
+
+        <TextView
+            android:id="@+id/kurs7"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:text="@string/k7"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/kurs6"
+            android:gravity="center"/>
+
+        <TextView
+            android:id="@+id/kurs8"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:text="@string/k8"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/kurs7"
+            android:gravity="center"/>
+
+        <TextView
+            android:id="@+id/kurs9"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:text="@string/k9"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/kurs8"
+            android:gravity="center"/>
+
+        <TextView
+            android:id="@+id/kurs10"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:text="@string/k10"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/kurs9"
+            android:gravity="center"/>
+
+        <TextView
+            android:id="@+id/kurs11"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:text="@string/k11"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/kurs10"
+            android:gravity="center"/>
+
+
+        <TextView
+            android:id="@+id/kurs12"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:text="@string/k12"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/kurs11"
+            android:gravity="center"/>
+
+        <TextView
+            android:id="@+id/kurs13"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:text="@string/k13"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/kurs12"
+            android:gravity="center"/>
+
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
