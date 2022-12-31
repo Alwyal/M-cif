@@ -4,8 +4,8 @@
 <div align='center'>
 
 <img src="img/agus.png" width="128"/>
-<img src="img/alwy.png" width="128"/>
 <img src="img/mail.png" width="128"/>
+<img src="img/alwy.png" width="128"/>
 <img src="img/gani.png" width="128"/>
 
 <br>
